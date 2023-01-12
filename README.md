@@ -25,6 +25,6 @@ I had been living a vanilla life before I met coding. Now my life tastes like th
 #### 📫 How to reach me: 
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/huishi329)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/huishi-an-8397311b1/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](anhuishi95@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anhuishi95@gmail.com)
 
 

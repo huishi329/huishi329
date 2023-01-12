@@ -10,11 +10,12 @@
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-424242?style=for-the-badge&logo=academia&logoColor=d71f00)
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=%23FFFFFF)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Render](https://img.shields.io/badge/render-%23242a55.svg?style=for-the-badge&logo=render&logoColor=45e1b6)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=for-the-badge)
 ![Sqlite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
-
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge)
+![Render](https://img.shields.io/badge/render-%23242a55.svg?style=for-the-badge&logo=render&logoColor=45e1b6)
 
 #### 🌊 I’m currently living in Vancouver 🗻 
 I had been living a vanilla life before I met coding. Now my life tastes like the passionfruit & mango gelato. It is never too late to do anything!!!

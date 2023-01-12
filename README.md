@@ -18,7 +18,7 @@
 ![Render](https://img.shields.io/badge/render-%23242a55.svg?style=for-the-badge&logo=render&logoColor=45e1b6)
 
 #### 🌊 I’m currently living in Vancouver 🗻 
-I had been living a vanilla life before I met coding. Now my life tastes like the passionfruit & mango gelato. It is never too late to do anything!!!
+I had been living a life like vanilla ice creame before I met coding. Now it tastes like the passionfruit & mango gelato. It is never too late to do anything!!!
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=huishi329)](https://git.io/streak-stats)

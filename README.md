@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Huishi An 👩‍🔧
 
 My portfolio site:
-https://huishi329.github.io/my-portfolio/
+https://huishi329.github.io/
 
 
 #### 🔨 My bricks and pieces 🗿:

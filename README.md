@@ -9,6 +9,7 @@ https://huishi329.github.io/
 ![Python](https://img.shields.io/badge/python-376c99?style=for-the-badge&logo=python&logoColor=f7d34b)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-424242?style=for-the-badge&logo=academia&logoColor=d71f00)
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=%23FFFFFF)
@@ -19,9 +20,10 @@ https://huishi329.github.io/
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=ec912d)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge)
 ![Render](https://img.shields.io/badge/render-%23242a55.svg?style=for-the-badge&logo=render&logoColor=45e1b6)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 #### 🌊 I’m currently living in Vancouver 🗻 
-I had been living a life like vanilla ice creame before I met coding. Now it tastes like the passionfruit & mango gelato. It is never too late to do anything!!!
+My life tastes like passionfruit & mango gelato after I started to code. It is never too late to do anything!!!
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=huishi329)](https://git.io/streak-stats)

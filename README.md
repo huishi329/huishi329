@@ -24,7 +24,6 @@ https://huishi329.github.io/
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 #### 🌊 I’m currently living in Vancouver 🗻 
-My life tastes like passionfruit & mango gelato after I started to code. It is never too late to do anything!!!
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=huishi329)](https://git.io/streak-stats)

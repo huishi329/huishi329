@@ -23,7 +23,7 @@ https://huishi329.github.io/
 ![Render](https://img.shields.io/badge/render-%23242a55.svg?style=for-the-badge&logo=render&logoColor=45e1b6)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
-#### 🌊 I’m currently living in Vancouver 🗻 
+#### 🌊 I’m based in Vancouver, Cananda 🗻 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=huishi329)](https://git.io/streak-stats)
